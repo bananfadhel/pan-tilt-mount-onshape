@@ -44,4 +44,4 @@ This design is open-source under the [MIT License](LICENSE). Feel free to remix,
 ---
 
 ## 🙋‍♀️ Made by
-**Banan Fadhel** | Designed with ❤️ using Onshape.
+**Banan Fadhel** 
